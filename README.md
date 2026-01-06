@@ -1,4 +1,4 @@
-# bash-script
+
 This Bash script is used to find the duplicate IP's and Mac address in a DHCP server.
 
 First run the ipcollect.sh and mac-collect.sh scripts
