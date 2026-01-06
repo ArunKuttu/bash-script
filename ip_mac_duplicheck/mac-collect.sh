@@ -1,5 +1,4 @@
 #!bin/bash
-#!bin/bash
 ####purpose= For collecting only the mac address from all the DHCP-config files##################
 ###Note:if a new dhcp file created like /etc/dhcp/include/dhcpd.conf_static_7 add it in the script##########
 
